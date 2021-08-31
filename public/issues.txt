@@ -1,0 +1,2 @@
+1. Loginreg.js: Not able to centre headings
+2. Loginreg.js: Register card's bottom is not visible
